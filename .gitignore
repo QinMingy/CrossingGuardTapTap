@@ -1,0 +1,17 @@
+.build/
+dist/
+.tmp/
+.cli/
+.agent/
+.emmylua/
+.claude/
+engine-docs/
+examples/
+templates/
+urhox-libs/
+schemas/
+prompts/
+lua-tools/
+logs/
+node_modules/
+*.meta
